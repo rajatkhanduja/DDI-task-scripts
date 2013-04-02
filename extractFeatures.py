@@ -36,6 +36,9 @@ def extractFeaturesForPair(pairRef, sentenceRef, entity1Ref, entity2Ref,
   features = {}
   sentence = sentenceRef.attrib['text']
 
+  # POS tag for the sentence
+  taggedSentence = nltk.pos_tag(sentence.split())
+  
   # Get names of drugs.
   features['drug1'] = entity1Ref.attrib['text']
   features['drug2'] = entity2Ref.attrib['text']
@@ -49,18 +52,33 @@ def extractFeaturesForPair(pairRef, sentenceRef, entity1Ref, entity2Ref,
   limitsDrug1 = map (lambda x: x.split("-"), entity1Ref.attrib['charOffset'].split(";"))
   limitsDrug2 = map (lambda x: x.split("-"), entity2Ref.attrib['charOffset'].split(';'))
   textBetweenDrugs = ""
-  wordsBeforeDrug1 = filter(lambda x: x in dictionary,
+  neighboursBeforeDrug1 = filter(lambda x: x in dictionary,
                         map(lambda x: STEMMER.stem(x),
                           sentence[:int(limitsDrug1[0][0])].strip().split()))[:NEIGHBOUR_DISTANCE]
-  wordsAfterDrug2 = filter(lambda x: x in dictionary, 
+  neighboursAfterDrug2 = filter(lambda x: x in dictionary, 
                         map(lambda x: STEMMER.stem(x),
                           sentence[int(limitsDrug2[-1][1]):].strip().split()))[:NEIGHBOUR_DISTANCE]
 
+  # Get all words before each of the drugs to get the word-position of the drugs
+  # (required to find the nouns and verbs between the two drug names)
+  nWordsBeforeDrug1 = len(sentence[:int(limitsDrug1[0][0])].strip().split())
+  
+  nWordsBeforeDrug2 = len(sentence[:int(limitsDrug2[0][0])].strip().split())
+
+  nounsBetweenDrugs = []
+  verbsBetweenDrugs = []
+
   if int(limitsDrug1[-1][1]) < int(limitsDrug2[0][0]):
     textBetweenDrugs = sentence[int(limitsDrug1[-1][1]) + 1: int(limitsDrug2[0][0])].strip()  
+    nounsBetweenDrugs = map(lambda x: x[0],
+                      filter(lambda x: x[1].startswith('NN'), 
+                        taggedSentence[nWordsBeforeDrug1 + 1 : nWordsBeforeDrug2]))
+    verbsBetweenDrugs = map(lambda x: x[0],
+                      filter(lambda x: x[1].startswith('VB'), 
+                        taggedSentence[nWordsBeforeDrug1 + 1 : nWordsBeforeDrug2]))
 
-  features['wordsBeforeDrug1'] = wordsBeforeDrug1
-  features['wordsAfterDrug2'] = wordsAfterDrug2
+  features['neighboursBeforeDrug1'] = neighboursBeforeDrug1
+  features['neighboursAfterDrug2'] = neighboursAfterDrug2
 
   wordsBetweenDrugs = filter(lambda x: 
                             x not in STOPWORDS, textBetweenDrugs.split())
@@ -69,6 +87,14 @@ def extractFeaturesForPair(pairRef, sentenceRef, entity1Ref, entity2Ref,
                                     map(lambda x: STEMMER.stem(x), 
                                         wordsBetweenDrugs))  
 
+  # Add the nouns and the number of nouns
+  features['nounsBetweenDrugs'] = nounsBetweenDrugs
+  features['numberOfNouns'] = len(nounsBetweenDrugs)
+
+  # Add the verbs and the number of verbs
+  features['verbsBetweenDrugs'] = verbsBetweenDrugs
+  features['numberOfVerbs'] = len(verbsBetweenDrugs)
+  
   # Relation exists or not
   features['ddi'] = pairRef.attrib['ddi']
   
@@ -116,7 +142,9 @@ if __name__ == "__main__":
     entry += delimiter + features[pair]['head2']
     entry += delimiter + str(features[pair]['distanceBetweenDrugs'])
     entry += delimiter + '"' + " ".join(features[pair]['wordsBetweenDrugs']) + '"'
-    entry += delimiter + '"' + " ".join(features[pair]['wordsBeforeDrug1']) + '"'
-    entry += delimiter + '"' + " ".join(features[pair]['wordsAfterDrug2']) + '"'
+    entry += delimiter + '"' + " ".join(features[pair]['neighboursBeforeDrug1']) + '"'
+    entry += delimiter + '"' + " ".join(features[pair]['neighboursAfterDrug2']) + '"'
+    entry += delimiter + '"' + " ".join(features[pair]['nounsBetweenDrugs']) + '"'
+    entry += delimiter + '"' + " ".join(features[pair]['verbsBetweenDrugs']) + '"'
     entry += delimiter + features[pair]['ddi']
     print entry
