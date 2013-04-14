@@ -3,10 +3,10 @@ import sys
 import os
 
 delim = ',;,'
-
 dictwords = dict()
+
 f = open("dictionary")
-i = 1
+i = 0
 for line in f:
 	dictwords[line.strip()] = i
 	i += 1
@@ -21,13 +21,26 @@ title.extend(map(lambda x: str(x) + ' (noun) b/w 1 & 2', listwords))
 title.extend(map(lambda x: str(x) + ' (verb) b/w 1 & 2', listwords))
 title.append('interaction b/w 1 & 2')
 
-def wordvector(s):
-	return [0] * len(listwords)
+def wordvector(words):
+	lwords = words.split('|')
+	lwordvector = [0] * len(listwords)
+	for word in lwords:
+		lwordvector[dictwords[word]] = 1
+	return lwordvector
 
 def writerow(g, l, d):
 	for i in range(0, len(l) - 1):
 		g.write(str(l[i]) + d)
 	g.write(str(l[-1]) + '\n')
+
+def makebool(s):
+	if s == 'false':
+		return 0
+	elif s == 'true':
+		return 1
+	else:
+		print "true/false expected."
+		exit(3)
 
 f = open("basicFeatures.csv")
 g = open("/tmp/featurevector.csv", 'w')
@@ -42,7 +55,7 @@ for line in f:
 	lresult.extend(wordvector(lbf[8]))
 	lresult.extend(wordvector(lbf[9]))
 	lresult.extend(wordvector(lbf[10]))
-	lresult.append(lbf[11])
+	lresult.append(makebool(lbf[11]))
 	writerow(g, lresult, delim)
 	assert(len(lresult) == len(title))
 	break
