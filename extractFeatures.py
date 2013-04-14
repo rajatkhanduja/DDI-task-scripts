@@ -74,12 +74,14 @@ def extractFeaturesForPair(pairRef, sentenceRef, entity1Ref, entity2Ref,
 
   if int(limitsDrug1[-1][1]) < int(limitsDrug2[0][0]):
     textBetweenDrugs = sentence[int(limitsDrug1[-1][1]) + 1: int(limitsDrug2[0][0])].strip()  
-    nounsBetweenDrugs = map(lambda x: x[0],
-                      filter(lambda x: x[1].startswith('NN'), 
-                        taggedSentence[nWordsBeforeDrug1 + 1 : nWordsBeforeDrug2]))
-    verbsBetweenDrugs = map(lambda x: x[0],
-                      filter(lambda x: x[1].startswith('VB'), 
-                        taggedSentence[nWordsBeforeDrug1 + 1 : nWordsBeforeDrug2]))
+    nounsBetweenDrugs = filter(lambda x: x in dictionary,
+                          map(lambda x: STEMMER.stem(x[0]),
+                            filter(lambda x: x[1].startswith('NN'), 
+                              taggedSentence[nWordsBeforeDrug1 + 1 : nWordsBeforeDrug2])))
+    verbsBetweenDrugs = filter (lambda x: x in dictionary,  
+                          map(lambda x: x[0],
+                            filter(lambda x: x[1].startswith('VB') and x[1] in dictionary, 
+                              taggedSentence[nWordsBeforeDrug1 + 1 : nWordsBeforeDrug2])))
 
   features['neighboursBeforeDrug1'] = neighboursBeforeDrug1
   features['neighboursAfterDrug2'] = neighboursAfterDrug2
@@ -145,10 +147,10 @@ if __name__ == "__main__":
     entry += delimiter + features[pair]['head1']
     entry += delimiter + features[pair]['head2']
     entry += delimiter + str(features[pair]['distanceBetweenDrugs'])
-    entry += delimiter + '"' + " ".join(features[pair]['wordsBetweenDrugs']) + '"'
-    entry += delimiter + '"' + " ".join(features[pair]['neighboursBeforeDrug1']) + '"'
-    entry += delimiter + '"' + " ".join(features[pair]['neighboursAfterDrug2']) + '"'
-    entry += delimiter + '"' + " ".join(features[pair]['nounsBetweenDrugs']) + '"'
-    entry += delimiter + '"' + " ".join(features[pair]['verbsBetweenDrugs']) + '"'
+    entry += delimiter + '"' + "|".join(features[pair]['wordsBetweenDrugs']) + '"'
+    entry += delimiter + '"' + "|".join(features[pair]['neighboursBeforeDrug1']) + '"'
+    entry += delimiter + '"' + "|".join(features[pair]['neighboursAfterDrug2']) + '"'
+    entry += delimiter + '"' + "|".join(features[pair]['nounsBetweenDrugs']) + '"'
+    entry += delimiter + '"' + "|".join(features[pair]['verbsBetweenDrugs']) + '"'
     entry += delimiter + features[pair]['ddi']
     print entry
