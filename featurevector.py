@@ -40,7 +40,7 @@ def writerow(g, l, d):
 
 f = open("basicFeatures_200.csv")
 g = open("/tmp/featurevector.csv", 'w')
-writerow(g, title, delim)
+writerow(g, title, ',')
 lbf = []
 for line in f:
 	lresult = []
@@ -52,5 +52,5 @@ for line in f:
 	lresult.extend(wordvector(lbf[9]))
 	lresult.extend(wordvector(lbf[10]))
 	lresult.append(lbf[11])
-	writerow(g, lresult, delim)
+	writerow(g, lresult, ',')
 	assert(len(lresult) == len(title))
