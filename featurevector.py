@@ -4,13 +4,15 @@ import os
 
 delim = ',;,'
 dictwords = dict()
+listwords = []
 
 f = open("dictionary")
 i = 0
 for line in f:
-	dictwords[line.strip()] = i
+	line = line.strip()
+	dictwords[line] = i
 	i += 1
-listwords = dictwords.keys()
+	listwords.append(line)
 f.close()
 
 title = ['ID', 'Drug1', 'Drug2', 'Head1', 'Head2', '#words b/w 1 & 2']
@@ -22,10 +24,13 @@ title.extend(map(lambda x: str(x) + ' (verb) b/w 1 & 2', listwords))
 title.append('interaction b/w 1 & 2')
 
 def wordvector(words):
-	lwords = words.split('|')
 	lwordvector = [0] * len(listwords)
-	for word in lwords:
-		lwordvector[dictwords[word]] = 1
+	words = words.replace('"', '')
+	if len(words) > 0:
+		lwords = words.split('|')
+		#print lwords
+		for word in lwords:
+			lwordvector[dictwords[word]] = 1
 	return lwordvector
 
 def writerow(g, l, d):
@@ -33,16 +38,7 @@ def writerow(g, l, d):
 		g.write(str(l[i]) + d)
 	g.write(str(l[-1]) + '\n')
 
-def makebool(s):
-	if s == 'false':
-		return 0
-	elif s == 'true':
-		return 1
-	else:
-		print "true/false expected."
-		exit(3)
-
-f = open("basicFeatures.csv")
+f = open("basicFeatures_200.csv")
 g = open("/tmp/featurevector.csv", 'w')
 writerow(g, title, delim)
 lbf = []
@@ -55,7 +51,6 @@ for line in f:
 	lresult.extend(wordvector(lbf[8]))
 	lresult.extend(wordvector(lbf[9]))
 	lresult.extend(wordvector(lbf[10]))
-	lresult.append(makebool(lbf[11]))
+	lresult.append(lbf[11])
 	writerow(g, lresult, delim)
 	assert(len(lresult) == len(title))
-	break

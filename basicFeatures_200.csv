@@ -1,0 +1,200 @@
+DDI-DrugBank.d78.s1.p62,;,iron,;,quinolones,;,iron,;,quinolones,;,22,;,"contain|iron|formul|contain|trival|cation|tablet|pediatr|oral|may|substanti|interfer|absorpt",;,"antacid|contain|metal",;,"result|system|concentr",;,"iron|formul|trival|cation|tablet|absorpt",;,"",;,0
+DDI-DrugBank.d78.s1.p63,;,multivitamins,;,iron,;,multivitamins,;,iron,;,1,;,"contain",;,"antacid|contain|metal",;,"formul|contain|trival",;,"",;,"",;,0
+DDI-DrugBank.d53.s7.p83,;,fluconazole,;,zidovudine,;,fluconazole,;,zidovudine,;,10,;,"",;,"use|therapeut|azithromycin",;,"",;,"",;,"",;,0
+DDI-DrugBank.d78.s1.p61,;,iron,;,didanosine,;,iron,;,didanosine,;,12,;,"contain|iron|formul|contain|trival|cation",;,"antacid|contain|metal",;,"tablet|pediatr|oral",;,"iron|formul|trival|cation",;,"",;,0
+DDI-DrugBank.d245.s4.p45,;,phenytoin,;,nicotinic acid,;,phenytoin,;,nicotinic,;,1,;,"",;,"drug|includ|thiazid",;,"calcium|channel|block",;,"",;,"",;,0
+DDI-DrugBank.d78.s1.p66,;,multivitamins,;,didanosine,;,multivitamins,;,didanosine,;,10,;,"contain|iron|formul|contain|trival|cation",;,"antacid|contain|metal",;,"tablet|pediatr|oral",;,"iron|formul|trival|cation",;,"",;,0
+DDI-DrugBank.d567.s11.p1,;,Danazol,;,lovastatin,;,Danazol,;,lovastatin,;,11,;,"risk|increas|concomit|administr|particularli|higher|dose",;,"",;,"",;,"risk|administr|dose",;,"",;,0
+DDI-DrugBank.d78.s1.p67,;,multivitamins,;,quinolones,;,multivitamins,;,quinolones,;,20,;,"contain|iron|formul|contain|trival|cation|tablet|pediatr|oral|may|substanti|interfer|absorpt",;,"antacid|contain|metal",;,"result|system|concentr",;,"iron|formul|trival|cation|tablet|absorpt",;,"",;,0
+DDI-DrugBank.d245.s4.p47,;,phenytoin,;,calcium channel blocking drugs,;,phenytoin,;,calcium,;,4,;,"nicotin",;,"drug|includ|thiazid",;,"",;,"nicotin",;,"",;,0
+DDI-DrugBank.d78.s1.p64,;,multivitamins,;,zinc,;,multivitamins,;,zinc,;,2,;,"contain|iron",;,"antacid|contain|metal",;,"formul|contain|trival",;,"iron",;,"",;,0
+DDI-DrugBank.d78.s1.p65,;,multivitamins,;,VIDEX,;,multivitamins,;,VIDEX,;,8,;,"contain|iron|formul|contain|trival|cation",;,"antacid|contain|metal",;,"tablet|pediatr|oral",;,"iron|formul|trival|cation",;,"",;,0
+DDI-DrugBank.d179.s21.p71,;,chlorpromazine,;,Prolixin,;,chlorpromazine,;,Prolixin,;,4,;,"",;,"",;,"",;,"",;,"",;,0
+DDI-DrugBank.d179.s21.p70,;,chlorpromazine,;,fluphenazine,;,chlorpromazine,;,fluphenazine,;,2,;,"",;,"",;,"",;,"",;,"",;,0
+DDI-DrugBank.d179.s21.p73,;,chlorpromazine,;,Serentil,;,chlorpromazine,;,Serentil,;,7,;,"",;,"",;,"",;,"",;,"",;,0
+DDI-DrugBank.d179.s21.p72,;,chlorpromazine,;,mesoridazine,;,chlorpromazine,;,mesoridazine,;,5,;,"",;,"",;,"",;,"",;,"",;,0
+DDI-DrugBank.d179.s21.p75,;,chlorpromazine,;,Trilafon,;,chlorpromazine,;,Trilafon,;,10,;,"",;,"",;,"",;,"",;,"",;,0
+DDI-DrugBank.d151.s2.p0,;,leucovorin,;,methotrexate,;,leucovorin,;,methotrexate,;,5,;,"may|reduc|efficaci|intrathec|administ",;,"high|dose",;,"",;,"efficaci",;,"",;,1
+DDI-DrugBank.d179.s21.p77,;,chlorpromazine,;,Compazine,;,chlorpromazine,;,Compazine,;,13,;,"",;,"",;,"",;,"",;,"",;,0
+DDI-DrugBank.d179.s21.p76,;,chlorpromazine,;,prochlorperazine,;,chlorpromazine,;,prochlorperazine,;,11,;,"",;,"",;,"",;,"",;,"",;,0
+DDI-DrugBank.d179.s21.p79,;,chlorpromazine,;,Sparine,;,chlorpromazine,;,Sparine,;,16,;,"",;,"",;,"",;,"",;,"",;,0
+DDI-DrugBank.d179.s21.p78,;,chlorpromazine,;,promazine,;,chlorpromazine,;,promazine,;,14,;,"",;,"",;,"",;,"",;,"",;,0
+DDI-DrugBank.d283.s14.p0,;,pravastatin,;,fenofibric acid,;,pravastatin,;,fenofibric,;,4,;,"clinic|import|effect|pharmacokinet",;,"singl|dose",;,"",;,"effect|pharmacokinet",;,"",;,0
+DDI-DrugBank.d345.s13.p44,;,phenytoin,;,warfarin,;,phenytoin,;,warfarin,;,0,;,"",;,"depress|effect|blood",;,"",;,"",;,"",;,0
+DDI-DrugBank.d345.s13.p40,;,niacin,;,phenytoin,;,niacin,;,phenytoin,;,2,;,"",;,"depress|effect|blood",;,"",;,"",;,"",;,0
+DDI-DrugBank.d345.s13.p41,;,niacin,;,warfarin,;,niacin,;,warfarin,;,3,;,"phenytoin",;,"depress|effect|blood",;,"",;,"phenytoin",;,"",;,0
+DDI-DrugBank.d345.s13.p42,;,tolbutamide,;,phenytoin,;,tolbutamide,;,phenytoin,;,1,;,"",;,"depress|effect|blood",;,"",;,"",;,"",;,0
+DDI-DrugBank.d345.s13.p43,;,tolbutamide,;,warfarin,;,tolbutamide,;,warfarin,;,2,;,"phenytoin",;,"depress|effect|blood",;,"",;,"phenytoin",;,"",;,0
+DDI-DrugBank.d531.s63.p0,;,SUSTIVA,;,ritonavir,;,SUSTIVA,;,ritonavir,;,2,;,"use|combin",;,"liver|enzym|recommend",;,"",;,"combin",;,"",;,1
+DDI-DrugBank.d13.s0.p9,;,Flupenthixol,;,Flupenthixol,;,Flupenthixol,;,Flupenthixol,;,29,;,"may|interact|like|oxidas|inhibitor|could|theoret|affect|flupenthixol|pharmacodynam|caus|addit|depress",;,"",;,"increas|effect|antidepress",;,"oxidas|inhibitor|flupenthixol|pharmacodynam|caus|addit|depress",;,"",;,0
+DDI-DrugBank.d13.s0.p8,;,Flupenthixol,;,Tricyclic antidepressants,;,Flupenthixol,;,Tricyclic,;,27,;,"may|interact|like|oxidas|inhibitor|could|theoret|affect|flupenthixol|pharmacodynam|caus|addit|depress",;,"",;,"increas|effect|antidepress",;,"oxidas|inhibitor|flupenthixol|pharmacodynam|caus|addit|depress",;,"",;,0
+DDI-DrugBank.d103.s26.p0,;,FORADIL,;,short-acting  beta2-agonists,;,FORADIL,;,short-acting,;,12,;,"gener|concern|regard|therapi|especi|therapi",;,"prescrib",;,"",;,"concern|therapi|therapi",;,"",;,0
+DDI-DrugBank.d13.s0.p5,;,Flupenthixol,;,Ethanol,;,Flupenthixol,;,Ethanol,;,19,;,"may|interact|like|oxidas|inhibitor|could|theoret|affect|flupenthixol|pharmacodynam",;,"",;,"caus|addit|depress",;,"oxidas|inhibitor|flupenthixol|pharmacodynam",;,"",;,0
+DDI-DrugBank.d13.s0.p4,;,Flupenthixol,;,Arecoline,;,Flupenthixol,;,Arecoline,;,15,;,"may|interact|like|oxidas|inhibitor|could|theoret|affect|flupenthixol|pharmacodynam",;,"",;,"caus|addit|depress",;,"oxidas|inhibitor|flupenthixol|pharmacodynam",;,"",;,0
+DDI-DrugBank.d13.s0.p7,;,Flupenthixol,;,Ethanol,;,Flupenthixol,;,Ethanol,;,21,;,"may|interact|like|oxidas|inhibitor|could|theoret|affect|flupenthixol|pharmacodynam",;,"",;,"caus|addit|depress",;,"oxidas|inhibitor|flupenthixol|pharmacodynam",;,"",;,0
+DDI-DrugBank.d13.s0.p6,;,Flupenthixol,;,Flupenthixol,;,Flupenthixol,;,Flupenthixol,;,20,;,"may|interact|like|oxidas|inhibitor|could|theoret|affect|flupenthixol|pharmacodynam",;,"",;,"caus|addit|depress",;,"oxidas|inhibitor|flupenthixol|pharmacodynam",;,"",;,0
+DDI-DrugBank.d13.s0.p1,;,Flupenthixol,;,MAOI,;,Flupenthixol,;,MAOI,;,8,;,"may|interact|like|oxidas|inhibitor",;,"",;,"could|theoret|affect",;,"oxidas|inhibitor",;,"",;,1
+DDI-DrugBank.d13.s0.p0,;,Flupenthixol,;,Monoamine oxidase inhibitors,;,Flupenthixol,;,Monoamine,;,4,;,"may|interact|like",;,"",;,"could|theoret|affect",;,"",;,"",;,1
+DDI-DrugBank.d13.s0.p3,;,Flupenthixol,;,flupenthixol,;,Flupenthixol,;,flupenthixol,;,12,;,"may|interact|like|oxidas|inhibitor|could|theoret|affect",;,"",;,"pharmacodynam|caus|addit",;,"oxidas|inhibitor",;,"",;,0
+DDI-DrugBank.d13.s0.p2,;,Flupenthixol,;,MAOI,;,Flupenthixol,;,MAOI,;,8,;,"may|interact|like|oxidas|inhibitor",;,"",;,"could|theoret|affect",;,"oxidas|inhibitor",;,"",;,0
+DDI-DrugBank.d64.s87.p939,;,glucagon,;,phenylbutazone,;,glucagon,;,phenylbutazone,;,10,;,"viru|oxidas",;,"may|increas|oral",;,"hot|long|prothrombin",;,"oxidas",;,"",;,0
+DDI-DrugBank.d64.s87.p938,;,glucagon,;,pentoxifylline,;,glucagon,;,pentoxifylline,;,10,;,"viru|oxidas",;,"may|increas|oral",;,"hot|long|prothrombin",;,"oxidas",;,"",;,0
+DDI-DrugBank.d64.s87.p937,;,glucagon,;,oxyphenbutazone,;,glucagon,;,oxyphenbutazone,;,10,;,"viru|oxidas",;,"may|increas|oral",;,"hot|long|prothrombin",;,"oxidas",;,"",;,0
+DDI-DrugBank.d64.s87.p936,;,glucagon,;,oxolinic acid,;,glucagon,;,oxolinic,;,9,;,"viru|oxidas",;,"may|increas|oral",;,"hot|long|prothrombin",;,"oxidas",;,"",;,0
+DDI-DrugBank.d64.s87.p935,;,glucagon,;,naproxen,;,glucagon,;,naproxen,;,9,;,"viru|oxidas",;,"may|increas|oral",;,"hot|long|prothrombin",;,"oxidas",;,"",;,0
+DDI-DrugBank.d64.s87.p934,;,glucagon,;,nalidixic acid,;,glucagon,;,nalidixic,;,8,;,"viru|oxidas",;,"may|increas|oral",;,"hot|long|prothrombin",;,"oxidas",;,"",;,0
+DDI-DrugBank.d64.s87.p933,;,glucagon,;,monoamine oxidase inhibitors,;,glucagon,;,monoamine,;,6,;,"viru",;,"may|increas|oral",;,"hot|long|prothrombin",;,"",;,"",;,0
+DDI-DrugBank.d64.s87.p932,;,glucagon,;,miconazole,;,glucagon,;,miconazole,;,6,;,"viru",;,"may|increas|oral",;,"oxidas|hot|long",;,"",;,"",;,0
+DDI-DrugBank.d64.s87.p931,;,glucagon,;,metronidazole,;,glucagon,;,metronidazole,;,6,;,"viru",;,"may|increas|oral",;,"oxidas|hot|long",;,"",;,"",;,0
+DDI-DrugBank.d64.s87.p930,;,glucagon,;,methylphenidate,;,glucagon,;,methylphenidate,;,6,;,"viru",;,"may|increas|oral",;,"oxidas|hot|long",;,"",;,"",;,0
+DDI-DrugBank.d340.s5.p23,;,clarithromycin,;,itraconazole,;,clarithromycin,;,itraconazole,;,2,;,"",;,"known|metabol|clinic",;,"",;,"",;,"",;,0
+DDI-DrugBank.d484.s0.p555,;,Nizoral,;,Sporanox,;,Nizoral,;,Sporanox,;,1,;,"",;,"may|interact|follow",;,"atorvastatin|drug|classifi",;,"",;,"",;,0
+DDI-DrugBank.d340.s5.p21,;,sulfamethoxazole,;,fluconazole,;,sulfamethoxazole,;,fluconazole,;,4,;,"",;,"known|metabol|clinic",;,"",;,"",;,"",;,0
+DDI-DrugBank.d94.s11.p393,;,clozapine,;,protease inhibitors,;,clozapine,;,protease,;,26,;,"oral",;,"expect|decreas|plasma",;,"",;,"",;,"",;,0
+DDI-DrugBank.d94.s11.p392,;,clozapine,;,praziquantel,;,clozapine,;,praziquantel,;,25,;,"oral",;,"expect|decreas|plasma",;,"proteas",;,"",;,"",;,0
+DDI-DrugBank.d94.s11.p391,;,clozapine,;,Phenytoin,;,clozapine,;,Phenytoin,;,24,;,"oral",;,"expect|decreas|plasma",;,"proteas",;,"",;,"",;,0
+DDI-DrugBank.d94.s11.p390,;,clozapine,;,oxcarbazepine,;,clozapine,;,oxcarbazepine,;,23,;,"oral",;,"expect|decreas|plasma",;,"proteas",;,"",;,"",;,0
+DDI-DrugBank.d94.s11.p397,;,clozapine,;,topiramate,;,clozapine,;,topiramate,;,31,;,"oral|proteas",;,"expect|decreas|plasma",;,"",;,"proteas",;,"",;,0
+DDI-DrugBank.d94.s11.p396,;,clozapine,;,theophylline,;,clozapine,;,theophylline,;,30,;,"oral|proteas",;,"expect|decreas|plasma",;,"",;,"proteas",;,"",;,0
+DDI-DrugBank.d94.s11.p395,;,clozapine,;,risperidone,;,clozapine,;,risperidone,;,29,;,"oral|proteas",;,"expect|decreas|plasma",;,"",;,"proteas",;,"",;,0
+DDI-DrugBank.d94.s11.p394,;,clozapine,;,quetiapine,;,clozapine,;,quetiapine,;,28,;,"oral|proteas",;,"expect|decreas|plasma",;,"",;,"proteas",;,"",;,0
+DDI-DrugBank.d64.s87.p1458,;,sulfonamides,;,thyroid drugs,;,sulfonamides,;,thyroid,;,3,;,"long",;,"may|increas|oral",;,"prothrombin|time|sodium",;,"",;,"",;,0
+DDI-DrugBank.d94.s11.p399,;,clozapine,;,tramadol,;,clozapine,;,tramadol,;,33,;,"oral|proteas",;,"expect|decreas|plasma",;,"",;,"proteas",;,"",;,0
+DDI-DrugBank.d94.s11.p398,;,clozapine,;,tiagabine,;,clozapine,;,tiagabine,;,32,;,"oral|proteas",;,"expect|decreas|plasma",;,"",;,"proteas",;,"",;,0
+DDI-DrugBank.d340.s5.p26,;,erythromycin,;,fluconazole,;,erythromycin,;,fluconazole,;,2,;,"",;,"known|metabol|clinic",;,"",;,"",;,"",;,0
+DDI-DrugBank.d107.s13.p7,;,spironolactone,;,potassium,;,spironolactone,;,potassium,;,3,;,"",;,"diuret",;,"m|salt|substitut",;,"",;,"",;,0
+DDI-DrugBank.d107.s13.p6,;,spironolactone,;,amiloride,;,spironolactone,;,amiloride,;,2,;,"",;,"diuret",;,"potassium|salt|substitut",;,"",;,"",;,0
+DDI-DrugBank.d107.s13.p5,;,spironolactone,;,triamterene,;,spironolactone,;,triamterene,;,1,;,"",;,"diuret",;,"potassium|salt|substitut",;,"",;,"",;,0
+DDI-DrugBank.d107.s13.p4,;,Potassium-sparing diuretics,;,potassium,;,Potassium-sparing,;,potassium,;,6,;,"potassium",;,"",;,"salt|substitut|may",;,"diuret|potassium",;,"",;,0
+DDI-DrugBank.d107.s13.p3,;,Potassium-sparing diuretics,;,potassium,;,Potassium-sparing,;,potassium,;,4,;,"",;,"",;,"m|salt|substitut",;,"diuret",;,"",;,0
+DDI-DrugBank.d484.s0.p552,;,Gris-PEG,;,theophylline,;,Gris-PEG,;,theophylline,;,36,;,"atorvastatin|drug|classifi|proteas|inhibitor|rifadin",;,"may|interact|follow",;,"vitamin",;,"drug|proteas|inhibitor|rifadin",;,"",;,0
+DDI-DrugBank.d107.s13.p1,;,Potassium-sparing diuretics,;,triamterene,;,Potassium-sparing,;,triamterene,;,2,;,"",;,"",;,"potassium|salt|substitut",;,"diuret",;,"",;,0
+DDI-DrugBank.d107.s13.p0,;,Potassium-sparing diuretics,;,spironolactone,;,Potassium-sparing,;,spironolactone,;,1,;,"",;,"",;,"potassium|salt|substitut",;,"diuret",;,"",;,0
+DDI-DrugBank.d340.s5.p24,;,clarithromycin,;,fluconazole,;,clarithromycin,;,fluconazole,;,3,;,"",;,"known|metabol|clinic",;,"",;,"",;,"",;,0
+DDI-DrugBank.d345.s5.p0,;,colestipol hydrochloride,;,propranolol,;,colestipol,;,propranolol,;,4,;,"given|prior|singl|dose",;,"dose",;,"human|trial|report",;,"hydrochlorid|dose",;,"",;,1
+DDI-DrugBank.d107.s13.p8,;,spironolactone,;,potassium,;,spironolactone,;,potassium,;,5,;,"potassium",;,"diuret",;,"salt|substitut|may",;,"potassium",;,"",;,0
+DDI-DrugBank.d86.s1.p41,;,propranolol,;,guanethidine,;,propranolol,;,guanethidine,;,3,;,"",;,"may|also|occur",;,"narcot|pain|medic",;,"",;,"",;,0
+DDI-DrugBank.d86.s1.p40,;,propranolol,;,grepafloxacin,;,propranolol,;,grepafloxacin,;,2,;,"",;,"may|also|occur",;,"narcot|pain|medic",;,"",;,"",;,0
+DDI-DrugBank.d86.s1.p43,;,propranolol,;,metrizamide,;,propranolol,;,metrizamide,;,5,;,"",;,"may|also|occur",;,"narcot|pain|medic",;,"",;,"",;,0
+DDI-DrugBank.d86.s1.p42,;,propranolol,;,guanadrel,;,propranolol,;,guanadrel,;,4,;,"",;,"may|also|occur",;,"narcot|pain|medic",;,"",;,"",;,0
+DDI-DrugBank.d86.s1.p45,;,propranolol,;,lithium,;,propranolol,;,lithium,;,7,;,"",;,"may|also|occur",;,"narcot|pain|medic",;,"",;,"",;,0
+DDI-DrugBank.d86.s1.p44,;,propranolol,;,cabergoline,;,propranolol,;,cabergoline,;,6,;,"",;,"may|also|occur",;,"narcot|pain|medic",;,"",;,"",;,0
+DDI-DrugBank.d86.s1.p47,;,propranolol,;,codeine,;,propranolol,;,codeine,;,12,;,"narcot|pain|medic",;,"may|also|occur",;,"drug|use|other",;,"pain|medic",;,"",;,0
+DDI-DrugBank.d86.s1.p46,;,propranolol,;,narcotic,;,propranolol,;,narcotic,;,8,;,"",;,"may|also|occur",;,"c|pain|medic",;,"",;,"",;,0
+DDI-DrugBank.d86.s1.p49,;,propranolol,;,diphenhydramine,;,propranolol,;,diphenhydramine,;,20,;,"narcot|pain|medic|drug|use",;,"may|also|occur",;,"other|drug|may",;,"pain|medic|drug",;,"",;,0
+DDI-DrugBank.d86.s1.p48,;,propranolol,;,antihistamines,;,propranolol,;,antihistamines,;,18,;,"narcot|pain|medic|drug|use",;,"may|also|occur",;,"other|drug|may",;,"pain|medic|drug",;,"",;,0
+DDI-DrugBank.d424.s2.p5,;,phenytoin,;,atovaquone,;,phenytoin,;,atovaquone,;,2,;,"affect|presenc",;,"extent|plasma|protein",;,"",;,"presenc",;,"",;,0
+DDI-DrugBank.d484.s0.p558,;,Nizoral,;,clofibrate,;,Nizoral,;,clofibrate,;,4,;,"atorvastatin",;,"may|interact|follow",;,"drug|classifi|proteas",;,"",;,"",;,0
+DDI-DrugBank.d107.s11.p0,;,Enalapril,;,digitalis,;,Enalapril,;,digitalis,;,3,;,"use|concomitantli",;,"",;,"without|evid|clinic",;,"",;,"",;,0
+DDI-DrugBank.d558.s3.p0,;,Cimetidine,;,dofetilide,;,Cimetidine,;,dofetilide,;,9,;,"dose|100|mg|result|increas",;,"",;,"plasma|level|mcg",;,"dose|mg|increas",;,"",;,1
+DDI-DrugBank.d509.s15.p7,;,quinidine,;,aripiprazole,;,quinidine,;,aripiprazole,;,9,;,"13|potent|inhibitor|increas",;,"singl|dose",;,"decreas|activ",;,"potent|inhibitor",;,"",;,0
+DDI-DrugBank.d509.s15.p6,;,aripiprazole,;,dehydroaripiprazole,;,aripiprazole,;,dehydroaripiprazole,;,16,;,"13|potent|inhibitor|increas|decreas|activ",;,"singl|dose",;,"",;,"potent|inhibitor",;,"",;,0
+DDI-DrugBank.d212.s22.p2,;,Probenecid,;,levetiracetam,;,Probenecid,;,levetiracetam,;,15,;,"renal|tubular|secret|block|administ|dose|500|mg|four|time|chang|pharmacokinet",;,"",;,"m|1000|mg",;,"secret|dose|mg|time|pharmacokinet",;,"",;,0
+DDI-DrugBank.d509.s15.p4,;,aripiprazole,;,quinidine,;,aripiprazole,;,quinidine,;,0,;,"",;,"singl|dose",;,"13|potent|inhibitor",;,"",;,"",;,1
+DDI-DrugBank.d509.s15.p3,;,Quinidine,;,dehydroaripiprazole,;,Quinidine,;,dehydroaripiprazole,;,22,;,"singl|dose|13|potent|inhibitor|increas|decreas|activ",;,"",;,"",;,"dose|potent|inhibitor",;,"",;,0
+DDI-DrugBank.d509.s15.p2,;,Quinidine,;,aripiprazole,;,Quinidine,;,aripiprazole,;,16,;,"singl|dose|13|potent|inhibitor|increas",;,"",;,"decreas|activ",;,"dose|potent|inhibitor",;,"",;,0
+DDI-DrugBank.d509.s15.p1,;,Quinidine,;,quinidine,;,Quinidine,;,quinidine,;,6,;,"singl|dose",;,"",;,"13|potent|inhibitor",;,"dose",;,"",;,0
+DDI-DrugBank.d509.s15.p0,;,Quinidine,;,aripiprazole,;,Quinidine,;,aripiprazole,;,5,;,"singl|dose",;,"",;,"13|potent|inhibitor",;,"dose",;,"",;,0
+DDI-DrugBank.d509.s15.p9,;,aripiprazole,;,dehydroaripiprazole,;,aripiprazole,;,dehydroaripiprazole,;,5,;,"decreas|activ",;,"singl|dose|13",;,"",;,"",;,"",;,0
+DDI-DrugBank.d509.s15.p8,;,quinidine,;,dehydroaripiprazole,;,quinidine,;,dehydroaripiprazole,;,15,;,"13|potent|inhibitor|increas|decreas|activ",;,"singl|dose",;,"",;,"potent|inhibitor",;,"",;,0
+DDI-DrugBank.d521.s2.p299,;,Naprosyn,;,Aleve,;,Naprosyn,;,Aleve,;,1,;,"",;,"nonsteroid|drug|ibuprofen",;,"",;,"",;,"",;,0
+DDI-DrugBank.d521.s2.p298,;,Anaprox,;,Aleve,;,Anaprox,;,Aleve,;,2,;,"",;,"nonsteroid|drug|ibuprofen",;,"",;,"",;,"",;,0
+DDI-DrugBank.d269.s1.p20,;,propafenone,;,carvedilol,;,propafenone,;,carvedilol,;,10,;,"drug|would|expect|increas|blood|level",;,"metabol|strong|inhibitor",;,"",;,"drug|blood|level",;,"",;,1
+DDI-DrugBank.d521.s2.p293,;,Daypro,;,Aleve,;,Daypro,;,Aleve,;,4,;,"naproxen",;,"nonsteroid|drug|ibuprofen",;,"",;,"",;,"",;,0
+DDI-DrugBank.d521.s2.p292,;,Daypro,;,Naprosyn,;,Daypro,;,Naprosyn,;,3,;,"naproxen",;,"nonsteroid|drug|ibuprofen",;,"",;,"",;,"",;,0
+DDI-DrugBank.d521.s2.p291,;,Daypro,;,Anaprox,;,Daypro,;,Anaprox,;,3,;,"naproxen",;,"nonsteroid|drug|ibuprofen",;,"",;,"",;,"",;,0
+DDI-DrugBank.d521.s2.p290,;,Daypro,;,naproxen,;,Daypro,;,naproxen,;,1,;,"",;,"nonsteroid|drug|ibuprofen",;,"",;,"",;,"",;,0
+DDI-DrugBank.d521.s2.p297,;,Anaprox,;,Naprosyn,;,Anaprox,;,Naprosyn,;,1,;,"",;,"nonsteroid|drug|ibuprofen",;,"",;,"",;,"",;,0
+DDI-DrugBank.d521.s2.p296,;,naproxen,;,Aleve,;,naproxen,;,Aleve,;,2,;,"",;,"nonsteroid|drug|ibuprofen",;,"",;,"",;,"",;,0
+DDI-DrugBank.d521.s2.p295,;,naproxen,;,Naprosyn,;,naproxen,;,Naprosyn,;,1,;,"",;,"nonsteroid|drug|ibuprofen",;,"",;,"",;,"",;,0
+DDI-DrugBank.d521.s2.p294,;,naproxen,;,Anaprox,;,naproxen,;,Anaprox,;,1,;,"",;,"nonsteroid|drug|ibuprofen",;,"",;,"",;,"",;,0
+DDI-DrugBank.d163.s10.p0,;,Phenytoin,;,Accutane,;,Phenytoin,;,Accutane,;,1,;,"",;,"",;,"shown|alter|pharmacokinet",;,"",;,"",;,0
+DDI-DrugBank.d163.s10.p1,;,Phenytoin,;,phenytoin,;,Phenytoin,;,phenytoin,;,5,;,"shown|alter|pharmacokinet",;,"",;,"studi|healthi",;,"pharmacokinet",;,"",;,0
+DDI-DrugBank.d163.s10.p2,;,Accutane,;,phenytoin,;,Accutane,;,phenytoin,;,3,;,"shown|alter|pharmacokinet",;,"",;,"studi|healthi",;,"pharmacokinet",;,"",;,0
+DDI-DrugBank.d64.s87.p704,;,dextran,;,warfarin sodium,;,dextran,;,warfarin,;,25,;,"affect|blood|viru|oxidas|hot|long|prothrombin|time",;,"may|increas|oral",;,"m",;,"blood|oxidas|hot|prothrombin|time",;,"",;,0
+DDI-DrugBank.d77.s2.p5,;,anesthetics,;,sympathomimetic amine,;,anesthetics,;,sympathomimetic,;,1,;,"contain",;,"use|prepar|local",;,"sinc|report|tricycl",;,"contain",;,"",;,0
+DDI-DrugBank.d48.s14.p0,;,dasatinib,;,Dasatinib,;,dasatinib,;,Dasatinib,;,2,;,"",;,"may|plasma|concentr",;,"b|inhibitor",;,"",;,"",;,0
+DDI-DrugBank.d141.s7.p5,;,digoxin,;,cerivastatin sodium,;,digoxin,;,cerivastatin,;,6,;,"clearanc|affect|mg",;,"digoxin|level",;,"",;,"clearanc|mg",;,"",;,0
+DDI-DrugBank.d141.s7.p4,;,digoxin,;,cerivastatin sodium,;,digoxin,;,cerivastatin,;,8,;,"level|digoxin|clearanc|affect|mg",;,"",;,"",;,"level|digoxin|clearanc|mg",;,"",;,0
+DDI-DrugBank.d351.s0.p7,;,loracarbef,;,probenecid,;,loracarbef,;,probenecid,;,1,;,"inhibit",;,"other|renal|excret",;,"d|result|approxim",;,"",;,"",;,1
+DDI-DrugBank.d351.s0.p6,;,b-lactam antibiotics,;,loracarbef,;,b-lactam,;,loracarbef,;,11,;,"renal|excret|inhibit|probenecid|result|approxim|increas",;,"other",;,"",;,"excret|approxim|increas",;,"",;,0
+DDI-DrugBank.d141.s7.p1,;,DIGOXIN,;,digoxin,;,DIGOXIN,;,digoxin,;,4,;,"digoxin|level",;,"",;,"clearanc|affect|mg",;,"digoxin|level",;,"",;,0
+DDI-DrugBank.d141.s7.p0,;,DIGOXIN,;,digoxin,;,DIGOXIN,;,digoxin,;,2,;,"",;,"",;,"level|digoxin|clearanc",;,"",;,"",;,0
+DDI-DrugBank.d141.s7.p3,;,digoxin,;,digoxin,;,digoxin,;,digoxin,;,1,;,"level",;,"",;,"clearanc|affect|mg",;,"level",;,"",;,0
+DDI-DrugBank.d141.s7.p2,;,DIGOXIN,;,cerivastatin sodium,;,DIGOXIN,;,cerivastatin,;,11,;,"digoxin|level|digoxin|clearanc|affect|mg",;,"",;,"",;,"digoxin|level|digoxin|clearanc|mg",;,"",;,0
+DDI-DrugBank.d558.s1.p0,;,Cimetidine,;,cimetidine,;,Cimetidine,;,cimetidine,;,3,;,"use",;,"",;,"",;,"use",;,"",;,0
+DDI-DrugBank.d351.s0.p9,;,probenecid,;,loracarbef,;,probenecid,;,loracarbef,;,5,;,"result|approxim|increas",;,"other|renal|excret",;,"",;,"approxim|increas",;,"",;,0
+DDI-DrugBank.d351.s0.p8,;,loracarbef,;,loracarbef,;,loracarbef,;,loracarbef,;,7,;,"inhibit|probenecid|result|approxim|increas",;,"other|renal|excret",;,"",;,"approxim|increas",;,"",;,0
+DDI-DrugBank.d162.s12.p1,;,Non-steroidal Anti-inflammatory Drugs,;,loop diuretics,;,Non-steroidal,;,loop,;,12,;,"administr|agent|reduc|antihypertens|effect",;,"",;,"",;,"administr|agent|effect",;,"",;,0
+DDI-DrugBank.d567.s13.p2,;,lovastatin,;,warfarin,;,lovastatin,;,warfarin,;,1,;,"administ",;,"small|clinic|trial",;,"treat|effect|prothrombin",;,"",;,"",;,0
+DDI-DrugBank.d237.s2.p8,;,clarithromycin,;,cisapride,;,clarithromycin,;,cisapride,;,10,;,"troleandomycin|markedli|inhibit|metabol|result|increas|plasma",;,"vitro|vivo|data",;,"level|prolong|interv",;,"metabol|increas|plasma",;,"",;,0
+DDI-DrugBank.d162.s12.p0,;,Non-steroidal Anti-inflammatory Drugs,;,non-steroidal anti-inflammatory agent,;,Non-steroidal,;,non-steroidal,;,4,;,"administr",;,"",;,"reduc|antihypertens|effect",;,"administr",;,"",;,0
+DDI-DrugBank.d237.s2.p9,;,erythromycin,;,troleandomycin,;,erythromycin,;,troleandomycin,;,1,;,"",;,"vitro|vivo|data",;,"markedli|inhibit|metabol",;,"",;,"",;,0
+DDI-DrugBank.d77.s2.p7,;,anesthetics,;,norepinephrine,;,anesthetics,;,norepinephrine,;,5,;,"contain|sympathomimet|amin",;,"use|prepar|local",;,"sinc|report|tricycl",;,"contain|amin",;,"",;,0
+DDI-DrugBank.d314.s32.p0,;,vaccines,;,corticosteroid,;,vaccines,;,corticosteroid,;,2,;,"",;,"administr",;,"d|therapi|discontinu",;,"",;,"",;,1
+DDI-MedLine.d133.s1.p10,;,verapamil,;,azoxymethane,;,verapamil,;,azoxymethane,;,10,;,"calcium|channel|incid|intestin|induc",;,"effect|combin|administr",;,"label|index|intestin",;,"calcium|channel|incid",;,"",;,0
+DDI-MedLine.d133.s1.p13,;,calcium channel blocker,;,AOM,;,calcium,;,AOM,;,9,;,"incid|intestin|induc",;,"effect|combin|administr",;,"label|index|intestin",;,"channel|incid",;,"",;,0
+DDI-MedLine.d133.s1.p12,;,calcium channel blocker,;,azoxymethane,;,calcium,;,azoxymethane,;,7,;,"incid|intestin|induc",;,"effect|combin|administr",;,"label|index|intestin",;,"channel|incid",;,"",;,0
+DDI-MedLine.d133.s1.p14,;,azoxymethane,;,AOM,;,azoxymethane,;,AOM,;,1,;,"",;,"effect|combin|administr",;,"label|index|intestin",;,"",;,"",;,0
+DDI-DrugBank.d162.s12.p9,;,potassium-sparing diuretics,;,thiazide diuretics,;,potassium-sparing,;,thiazide,;,0,;,"",;,"administr|agent|reduc",;,"",;,"",;,"",;,0
+DDI-DrugBank.d162.s12.p8,;,loop diuretics,;,thiazide diuretics,;,loop,;,thiazide,;,0,;,"",;,"administr|agent|reduc",;,"",;,"",;,"",;,0
+DDI-DrugBank.d198.s28.p1,;,Alpha-blockers,;,terazosin,;,Alpha-blockers,;,terazosin,;,16,;,"10|20|mg|given|healthi|volunt|either|simultan|6|hour|10|mg|dose",;,"",;,"signific|hypotens|develop",;,"mg|volunt|hour|mg|dose",;,"",;,0
+DDI-DrugBank.d198.s28.p0,;,Alpha-blockers,;,Vardenafil,;,Alpha-blockers,;,Vardenafil,;,2,;,"",;,"",;,"10|20|mg",;,"",;,"",;,0
+DDI-DrugBank.d77.s2.p6,;,anesthetics,;,epinephrine,;,anesthetics,;,epinephrine,;,4,;,"contain|sympathomimet|amin",;,"use|prepar|local",;,"sinc|report|tricycl",;,"contain|amin",;,"",;,0
+DDI-DrugBank.d132.s18.p2,;,Cyclosporine,;,cyclosporine,;,Cyclosporine,;,cyclosporine,;,9,;,"drug|concomitantli|associ|increas",;,"",;,"possibl|due|decreas",;,"drug|increas",;,"",;,0
+DDI-DrugBank.d132.s18.p3,;,nonsteroial anti-inflammatory drugs,;,cyclosporine,;,nonsteroial,;,cyclosporine,;,1,;,"concomitantli",;,"",;,"associ|increas|possibl",;,"drug",;,"",;,1
+DDI-DrugBank.d132.s18.p0,;,Cyclosporine,;,nonsteroial anti-inflammatory drugs,;,Cyclosporine,;,nonsteroial,;,2,;,"",;,"",;,"concomitantli|associ|increas",;,"",;,"",;,0
+DDI-DrugBank.d132.s18.p1,;,Cyclosporine,;,cyclosporine,;,Cyclosporine,;,cyclosporine,;,6,;,"drug|concomitantli",;,"",;,"associ|increas|possibl",;,"drug",;,"",;,0
+DDI-DrugBank.d132.s18.p4,;,nonsteroial anti-inflammatory drugs,;,cyclosporine,;,nonsteroial,;,cyclosporine,;,4,;,"concomitantli|associ|increas",;,"",;,"possibl|due|decreas",;,"drug|increas",;,"",;,0
+DDI-DrugBank.d132.s18.p5,;,cyclosporine,;,cyclosporine,;,cyclosporine,;,cyclosporine,;,2,;,"associ|increas",;,"drug|concomitantli",;,"possibl|due|decreas",;,"increas",;,"",;,0
+DDI-DrugBank.d411.s4.p289,;,chloral hydrate,;,glucocorticoids,;,chloral,;,glucocorticoids,;,6,;,"dopamin|dopamin",;,"follow|agent|may",;,"hepat|enzym|somatostatin",;,"dopamin|dopamin",;,"",;,0
+DDI-DrugBank.d434.s36.p3,;,Felbatol,;,erythromycin,;,Felbatol,;,erythromycin,;,2,;,"coadministr",;,"",;,"10|day|alter",;,"coadministr",;,"",;,0
+DDI-DrugBank.d434.s36.p2,;,Erythromycin,;,felbamate,;,Erythromycin,;,felbamate,;,16,;,"coadministr|erythromycin|10|day|alter|pharmacokinet|paramet",;,"",;,"daili|dose|10",;,"coadministr|erythromycin|day|paramet",;,"",;,0
+DDI-DrugBank.d434.s36.p1,;,Erythromycin,;,erythromycin,;,Erythromycin,;,erythromycin,;,3,;,"coadministr",;,"",;,"10|day|alter",;,"coadministr",;,"",;,0
+DDI-DrugBank.d434.s36.p0,;,Erythromycin,;,Felbatol,;,Erythromycin,;,Felbatol,;,0,;,"",;,"",;,"coadministr|erythromycin|10",;,"",;,"",;,0
+DDI-DrugBank.d434.s36.p5,;,erythromycin,;,felbamate,;,erythromycin,;,felbamate,;,12,;,"10|day|alter|pharmacokinet|paramet",;,"coadministr",;,"daili|dose|10",;,"day|paramet",;,"",;,0
+DDI-DrugBank.d434.s36.p4,;,Felbatol,;,felbamate,;,Felbatol,;,felbamate,;,15,;,"coadministr|erythromycin|10|day|alter|pharmacokinet|paramet",;,"",;,"daili|dose|10",;,"coadministr|erythromycin|day|paramet",;,"",;,0
+DDI-MedLine.d119.s18.p2,;,niacin,;,digoxin,;,niacin,;,digoxin,;,11,;,"propranolol|demonstr|effect|plasma|administr|patient|popul|chronic|receiv",;,"addit|interact|studi",;,"result|differ|extent",;,"propranolol|effect|plasma|administr|patient|popul",;,"",;,0
+DDI-MedLine.d119.s18.p3,;,niacin,;,digoxin,;,niacin,;,digoxin,;,16,;,"propranolol|demonstr|effect|plasma|administr|patient|popul|chronic|receiv|digoxin|result|differ|extent|bioavail",;,"addit|interact|studi",;,"rel|control",;,"propranolol|effect|plasma|administr|patient|popul|digoxin|differ|extent|bioavail",;,"",;,0
+DDI-MedLine.d119.s18.p0,;,niacin,;,propranolol,;,niacin,;,propranolol,;,0,;,"",;,"addit|interact|studi",;,"demonstr|effect|plasma",;,"",;,"",;,0
+DDI-MedLine.d119.s18.p1,;,niacin,;,fluvastatin,;,niacin,;,fluvastatin,;,3,;,"propranolol|demonstr|effect",;,"addit|interact|studi",;,"plasma|administr|patient",;,"propranolol|effect",;,"",;,0
+DDI-MedLine.d119.s18.p6,;,propranolol,;,digoxin,;,propranolol,;,digoxin,;,15,;,"demonstr|effect|plasma|administr|patient|popul|chronic|receiv|digoxin|result|differ|extent|bioavail",;,"addit|interact|studi",;,"rel|control",;,"effect|plasma|administr|patient|popul|digoxin|differ|extent|bioavail",;,"",;,0
+DDI-DrugBank.d509.s17.p0,;,fluoxetine,;,paroxetine,;,fluoxetine,;,paroxetine,;,0,;,"",;,"signific|inhibitor",;,"would|expect|similar",;,"",;,"",;,0
+DDI-MedLine.d119.s18.p4,;,propranolol,;,fluvastatin,;,propranolol,;,fluvastatin,;,2,;,"demonstr|effect",;,"addit|interact|studi",;,"plasma|administr|patient",;,"effect",;,"",;,0
+DDI-MedLine.d119.s18.p5,;,propranolol,;,digoxin,;,propranolol,;,digoxin,;,10,;,"demonstr|effect|plasma|administr|patient|popul|chronic|receiv",;,"addit|interact|studi",;,"result|differ|extent",;,"effect|plasma|administr|patient|popul",;,"",;,0
+DDI-DrugBank.d484.s0.p424,;,Trileptal,;,rifampin,;,Trileptal,;,rifampin,;,36,;,"antifung|atorvastatin|drug|classifi|proteas|inhibitor|rifadin",;,"may|interact|follow",;,"vitamin",;,"antifung|drug|proteas|inhibitor|rifadin",;,"",;,0
+DDI-DrugBank.d484.s0.p425,;,Trileptal,;,temazepam,;,Trileptal,;,temazepam,;,39,;,"antifung|atorvastatin|drug|classifi|proteas|inhibitor|rifadin",;,"may|interact|follow",;,"vitamin",;,"antifung|drug|proteas|inhibitor|rifadin",;,"",;,0
+DDI-DrugBank.d484.s0.p426,;,Trileptal,;,theophylline,;,Trileptal,;,theophylline,;,40,;,"antifung|atorvastatin|drug|classifi|proteas|inhibitor|rifadin",;,"may|interact|follow",;,"vitamin",;,"antifung|drug|proteas|inhibitor|rifadin",;,"",;,0
+DDI-DrugBank.d484.s0.p427,;,Trileptal,;,Theo-Dur,;,Trileptal,;,Theo-Dur,;,42,;,"antifung|atorvastatin|drug|classifi|proteas|inhibitor|rifadin",;,"may|interact|follow",;,"vitamin",;,"antifung|drug|proteas|inhibitor|rifadin",;,"",;,0
+DDI-DrugBank.d484.s0.p420,;,Trileptal,;,phenylbutazone,;,Trileptal,;,phenylbutazone,;,31,;,"antifung|atorvastatin|drug|classifi|proteas|inhibitor",;,"may|interact|follow",;,"rifadin|vitamin",;,"antifung|drug|proteas|inhibitor",;,"",;,0
+DDI-DrugBank.d484.s0.p421,;,Trileptal,;,prednisolone,;,Trileptal,;,prednisolone,;,32,;,"antifung|atorvastatin|drug|classifi|proteas|inhibitor",;,"may|interact|follow",;,"rifadin|vitamin",;,"antifung|drug|proteas|inhibitor",;,"",;,0
+DDI-DrugBank.d484.s0.p422,;,Trileptal,;,Prelone,;,Trileptal,;,Prelone,;,34,;,"antifung|atorvastatin|drug|classifi|proteas|inhibitor",;,"may|interact|follow",;,"rifadin|vitamin",;,"antifung|drug|proteas|inhibitor",;,"",;,0
+DDI-DrugBank.d484.s0.p423,;,Trileptal,;,rifadin,;,Trileptal,;,rifadin,;,34,;,"antifung|atorvastatin|drug|classifi|proteas|inhibitor",;,"may|interact|follow",;,"vitamin",;,"antifung|drug|proteas|inhibitor",;,"",;,0
+DDI-DrugBank.d64.s29.p229,;,glutethimide,;,vitamin C,;,glutethimide,;,vitamin,;,5,;,"prothrombin|time",;,"report|diminish|oral",;,"sodium",;,"prothrombin|time",;,"",;,0
+DDI-DrugBank.d64.s29.p228,;,glutethimide,;,rifampin,;,glutethimide,;,rifampin,;,2,;,"",;,"report|diminish|oral",;,"prothrombin|time|sodium",;,"",;,"",;,0
+DDI-DrugBank.d484.s0.p428,;,Trileptal,;,vitamin C,;,Trileptal,;,vitamin,;,42,;,"antifung|atorvastatin|drug|classifi|proteas|inhibitor|rifadin",;,"may|interact|follow",;,"",;,"antifung|drug|proteas|inhibitor|rifadin",;,"",;,0
+DDI-DrugBank.d484.s0.p429,;,Topamax,;,Felbatol,;,Topamax,;,Felbatol,;,1,;,"",;,"may|interact|follow",;,"antifung|atorvastatin|drug",;,"",;,"",;,0
+DDI-DrugBank.d314.s30.p4,;,corticosteroid,;,inactivated vaccines,;,corticosteroid,;,inactivated,;,7,;,"therapi|may|exhibit|diminish|respons",;,"",;,"due|inhibit",;,"therapi|respons",;,"",;,1
+DDI-DrugBank.d314.s30.p5,;,live vaccines,;,inactivated vaccines,;,live,;,inactivated,;,0,;,"",;,"corticosteroid|therapi|may",;,"due|inhibit",;,"",;,"",;,0
+DDI-DrugBank.d314.s30.p2,;,Vaccines,;,inactivated vaccines,;,Vaccines,;,inactivated,;,10,;,"corticosteroid|therapi|may|exhibit|diminish|respons",;,"",;,"due|inhibit",;,"therapi|respons",;,"",;,0
+DDI-DrugBank.d314.s30.p3,;,corticosteroid,;,live vaccines,;,corticosteroid,;,live,;,6,;,"therapi|may|exhibit|diminish|respons",;,"",;,"due|inhibit",;,"therapi|respons",;,"",;,1
+DDI-DrugBank.d314.s30.p0,;,Vaccines,;,corticosteroid,;,Vaccines,;,corticosteroid,;,2,;,"",;,"",;,"d|therapi|may",;,"",;,"",;,0
+DDI-DrugBank.d179.s21.p74,;,chlorpromazine,;,perphenazine,;,chlorpromazine,;,perphenazine,;,8,;,"",;,"",;,"",;,"",;,"",;,0
+DDI-DrugBank.d440.s8.p0,;,Aspirin,;,Nonsteroidal Antiinflammatory Drug,;,Aspirin,;,Nonsteroidal,;,1,;,"",;,"",;,"",;,"",;,"",;,0
+DDI-DrugBank.d440.s8.p1,;,Aspirin,;,NSAIDs,;,Aspirin,;,NSAIDs,;,4,;,"",;,"",;,"",;,"",;,"",;,0
+DDI-DrugBank.d440.s8.p2,;,Nonsteroidal Antiinflammatory Drug,;,NSAIDs,;,Nonsteroidal,;,NSAIDs,;,1,;,"",;,"",;,"",;,"",;,"",;,0
+DDI-DrugBank.d81.s1.p3,;,DynaCirc,;,isradipine,;,DynaCirc,;,isradipine,;,1,;,"",;,"studi|normal|healthi",;,"result|alter|either",;,"",;,"",;,0
+DDI-DrugBank.d81.s1.p2,;,Hydrochlorothiazide,;,hydrochlorothiazide,;,Hydrochlorothiazide,;,hydrochlorothiazide,;,11,;,"studi|normal|healthi|volunt|shown|concomit|administr",;,"",;,"result|alter|either",;,"studi|volunt|administr",;,"",;,0
+DDI-DrugBank.d141.s1.p5,;,Cerivastatin,;,antacid,;,Cerivastatin,;,antacid,;,4,;,"plasma|concentr|affect",;,"",;,"",;,"plasma|concentr",;,"",;,0
+DDI-DrugBank.d141.s1.p4,;,Magnesium-Aluminum Hydroxide,;,antacid,;,Magnesium-Aluminum,;,antacid,;,6,;,"plasma|concentr|affect",;,"",;,"",;,"plasma|concentr",;,"",;,0
+DDI-DrugBank.d141.s1.p3,;,Magnesium-Aluminum Hydroxide,;,Cerivastatin,;,Magnesium-Aluminum,;,Cerivastatin,;,1,;,"",;,"",;,"plasma|concentr|affect",;,"",;,"",;,0
+DDI-DrugBank.d141.s1.p2,;,ANTACID,;,antacid,;,ANTACID,;,antacid,;,7,;,"plasma|concentr|affect",;,"",;,"",;,"plasma|concentr",;,"",;,0
+DDI-DrugBank.d141.s1.p1,;,ANTACID,;,Cerivastatin,;,ANTACID,;,Cerivastatin,;,2,;,"",;,"",;,"plasma|concentr|affect",;,"",;,"",;,0
+DDI-DrugBank.d141.s1.p0,;,ANTACID,;,Magnesium-Aluminum Hydroxide,;,ANTACID,;,Magnesium-Aluminum,;,1,;,"",;,"",;,"plasma|concentr|affect",;,"",;,"",;,0
+DDI-MedLine.d132.s0.p0,;,non-nucleoside reverse transcriptase inhibitors,;,antiretroviral,;,non-nucleoside,;,antiretroviral,;,0,;,"",;,"role",;,"",;,"revers|transcriptas|inhibitor",;,"",;,0
+DDI-DrugBank.d77.s2.p3,;,decongestants,;,norepinephrine,;,decongestants,;,norepinephrine,;,7,;,"local|anesthet|contain|sympathomimet|amin",;,"use|prepar",;,"sinc|report|tricycl",;,"anesthet|contain|amin",;,"",;,0
+DDI-DrugBank.d511.s4.p1,;,foscarnet,;,aminoglycosides,;,foscarnet,;,aminoglycosides,;,11,;,"caus|renal|use|avoid|combin|potenti|nephrotox|drug",;,"",;,"amphotericin|intraven|potenti",;,"use|combin|drug",;,"",;,0
+DDI-DrugBank.d64.s87.p1256,;,naproxen,;,pentoxifylline,;,naproxen,;,pentoxifylline,;,2,;,"",;,"may|increas|oral",;,"hot|long|prothrombin",;,"",;,"",;,0
+DDI-DrugBank.d64.s87.p1257,;,naproxen,;,phenylbutazone,;,naproxen,;,phenylbutazone,;,2,;,"",;,"may|increas|oral",;,"hot|long|prothrombin",;,"",;,"",;,0
+DDI-DrugBank.d64.s87.p1254,;,naproxen,;,oxolinic acid,;,naproxen,;,oxolinic,;,1,;,"",;,"may|increas|oral",;,"hot|long|prothrombin",;,"",;,"",;,0
+DDI-DrugBank.d64.s87.p1255,;,naproxen,;,oxyphenbutazone,;,naproxen,;,oxyphenbutazone,;,2,;,"",;,"may|increas|oral",;,"hot|long|prothrombin",;,"",;,"",;,0
