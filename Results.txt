@@ -1,0 +1,32 @@
+Instances 1-2799 with NaiveBayes in WEKA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time taken to build model: 10.77 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        2165               77.3491 %
+Incorrectly Classified Instances       634               22.6509 %
+Kappa statistic                          0.3894
+Mean absolute error                      0.2392
+Root mean squared error                  0.4315
+Relative absolute error                 94.2633 %
+Root relative squared error            121.191  %
+Total Number of Instances             2799     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.769     0.199      0.957     0.769     0.852      0.864    false
+                 0.801     0.231      0.377     0.801     0.513      0.864    true
+Weighted Avg.    0.773     0.204      0.87      0.773     0.802      0.864
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 1831  551 |    a = false
+   83  334 |    b = true
+
+====================================================================================
+
+
