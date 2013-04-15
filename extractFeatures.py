@@ -7,6 +7,7 @@
 #   python extractFeatures.py <directory_path> <dictionary_file>
 #
 # Features extracted (in the order they will be printed)
+# 0. ID
 # 1. Drug1 (in the pair)
 # 2. Drug2 (in the pair)
 # 3. Head word of drug1
@@ -15,6 +16,9 @@
 # 6. Unique words between two drugs   }
 # 7. Unique words before drug1        } - based on the words obtained separately
 # 8. Unique words after  drug2        }
+# 9. Nouns between two drugs
+#10. Verbs between two drugs
+#11. Interaction between two drugs
 
 
 
