@@ -1,0 +1,108 @@
+=== Run information ===
+
+Evaluator:    weka.attributeSelection.CfsSubsetEval 
+Search:weka.attributeSelection.BestFirst -D 1 -N 5
+Relation:     featurevector
+Instances:    27792
+Attributes:   6687
+[list of attributes omitted]
+Evaluation mode:evaluate on all training data
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+  Best first.
+  Start set: no attributes
+  Search direction: forward
+  Stale search after 5 node expansions
+  Total number of subsets evaluated: 46786
+  Merit of best subset found:    0.1  
+
+Attribute Subset Evaluator (supervised, Class (nominal): 6687 interaction b/w 1 & 2):
+  CFS Subset Evaluator
+  Including locally predictive attributes
+
+Selected attributes: 1,34,103,154,158,215,249,394,421,428,430,448,540,585,590,650,654,672,704,748,751,781,797,843,854,964,980,1102,1185,1211,1216,1220,1278,1322,1377,1441,1447,1531,1557,1594,1790,1791,1798,2001,2026,2170,2207,2317,2326,2402,2444,2508,2613,2758,2819,3056,3104,3110,3175,3272,3322,3326,3376,3513,3616,3664,3918,3936,3993,4093,4115,4225,4315,4672,4730,4792,4868,4934,5147 : 79
+                     ID
+                     natriuret b/w 1 & 2
+                     modest b/w 1 & 2
+                     neuromuscular b/w 1 & 2
+                     gemfibrozil b/w 1 & 2
+                     protect b/w 1 & 2
+                     antiparkinsonian b/w 1 & 2
+                     multival b/w 1 & 2
+                     may b/w 1 & 2
+                     man b/w 1 & 2
+                     stress b/w 1 & 2
+                     gel b/w 1 & 2
+                     catecholamin b/w 1 & 2
+                     mark b/w 1 & 2
+                     inotrop b/w 1 & 2
+                     act b/w 1 & 2
+                     start b/w 1 & 2
+                     antagon b/w 1 & 2
+                     induct b/w 1 & 2
+                     known b/w 1 & 2
+                     antineoplast b/w 1 & 2
+                     food b/w 1 & 2
+                     alcohol b/w 1 & 2
+                     prolifer b/w 1 & 2
+                     solut b/w 1 & 2
+                     predominantli b/w 1 & 2
+                     cautious b/w 1 & 2
+                     locomotor b/w 1 & 2
+                     antiplatelet b/w 1 & 2
+                     withdrawn b/w 1 & 2
+                     certain b/w 1 & 2
+                     togeth b/w 1 & 2
+                     exceed b/w 1 & 2
+                     limit b/w 1 & 2
+                     acidifi before 1
+                     averag before 1
+                     1000 before 1
+                     alkalin before 1
+                     compromis before 1
+                     lithium before 1
+                     introduct before 1
+                     term before 1
+                     continu before 1
+                     atracurium before 1
+                     consider before 1
+                     onset before 1
+                     sed before 1
+                     anesthet before 1
+                     xanthin before 1
+                     danger before 1
+                     greater before 1
+                     blocker before 1
+                     opioid before 1
+                     cautiou after 2
+                     render after 2
+                     seizur after 2
+                     switch after 2
+                     still after 2
+                     15 after 2
+                     develop after 2
+                     act after 2
+                     start after 2
+                     induct after 2
+                     nasal after 2
+                     beadminist after 2
+                     includ after 2
+                     renin after 2
+                     add after 2
+                     whether after 2
+                     indic (noun) b/w 1 & 2
+                     amin (noun) b/w 1 & 2
+                     agonist (noun) b/w 1 & 2
+                     produc (noun) b/w 1 & 2
+                     possibl (noun) b/w 1 & 2
+                     modifi (noun) b/w 1 & 2
+                     compound (noun) b/w 1 & 2
+                     intensifi (noun) b/w 1 & 2
+                     larger (noun) b/w 1 & 2
+                     antiinflammatori (noun) b/w 1 & 2
+
+
